@@ -1,0 +1,1 @@
+Put in this directory all the extensions you want to use in your environment

@@ -1,0 +1,1 @@
+Put in this folder the 'native extensions' (Extensions bundled with the core iTop, if any)
